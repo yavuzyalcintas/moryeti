@@ -13,9 +13,17 @@
   <h2 align="center">Anonymoys Q&A Social Media</h2>
 </div>
 
-![Moryeti](moryeti-1.png)
+<h3 align="center">Feed Page</h3>
 
 ![Moryeti](moryeti-2.png)
+
+<h3 align="center">Profile Page</h3>
+
+![Moryeti](moryeti-1.png)
+
+<h3 align="center">Thread Page</h3>
+
+![Moryeti](moryeti-3.png)
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
