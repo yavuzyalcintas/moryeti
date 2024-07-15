@@ -13,6 +13,10 @@
   <h2 align="center">Anonymoys Q&A Social Media</h2>
 </div>
 
+![Moryeti](moryeti-1.png)
+
+![Moryeti](moryeti-2.png)
+
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - Next.js
