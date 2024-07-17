@@ -11,6 +11,8 @@
   </div>
 
   <h2 align="center">Anonymoys Q&A Social Media</h2>
+  
+  Forked from **[adrianhajdin/threads](https://github.com/adrianhajdin/threads)**
 </div>
 
 <h3 align="center">Feed Page</h3>
